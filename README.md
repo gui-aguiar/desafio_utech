@@ -4,8 +4,8 @@
 - Você deve criar uma aplicação dividida em Backend e Frontend
 - Você deve utilizar PHP 5 e o Framework Slim
 - Você deve utilizar o banco de dados MySQL (MariaDb)
-- O repositório do desafio deve ser clonado e estar público no github;
-- Documente como seu projeto deve ser rodado em ambiente linux (README.md);
+- O repositório do desafio deve ser clonado e estar público no github
+- Documente como seu projeto deve ser rodado em ambiente linux (README.md)
 
 ## Backend: Criar uma API REST:
 - Deve permitir a autenticação de usuários
